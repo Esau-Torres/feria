@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Federo&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+.font-Inter { /* Fuente para el cuerpo*/
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+.font-Roboto { /* Fuente para los titulos */
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100 900;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+.font-Federo { /* Fuente para el nombre TutorEX y aspectos especiales */
+    font-family: "Federo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
