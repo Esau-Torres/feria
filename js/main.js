@@ -52,3 +52,26 @@ document.addEventListener('DOMContentLoaded', function() {
   console.log('DOM cargado, intentando cargar home...');
   loadContent('home');
 });
+
+
+//--------------------JOSE--------------------------------
+// necesario para el navbar responsive
+const btn = document.getElementById("menu-btn");
+const menu = document.getElementById("menu");
+
+btn.addEventListener("click", () => {
+  menu.classList.toggle("hidden");
+  // Cambiar aria-expanded para accesibilidad
+  const isExpanded = menu.classList.contains("hidden") ? "false" : "true";
+  btn.setAttribute("aria-expanded", isExpanded);
+});
+
+// Cerrar menú al hacer clic fuera
+document.addEventListener("click", (e) => {
+  if (!menu.classList.contains("hidden") &&
+    !btn.contains(e.target) &&
+    !menu.contains(e.target)) {
+    menu.classList.add("hidden");
+    btn.setAttribute("aria-expanded", "false");
+  }
+});
