@@ -1,7 +1,10 @@
 // main.js
 async function loadContent(page) {
   try {
-    // Prueba diferentes rutas posibles
+    // Guardar la página actual en localStorage
+    sessionStorage.setItem("currentPage", page);
+
+    // Rutas posibles
     const possiblePaths = [
       `vistas/home/${page}.html`,
       `./vistas/home/${page}.html`,
@@ -22,8 +25,7 @@ async function loadContent(page) {
           break;
         }
       } catch (e) {
-        // Continuar probando otras rutas
-        continue;
+        continue; // seguir probando rutas
       }
     }
 
@@ -47,8 +49,11 @@ async function loadContent(page) {
   }
 }
 
-// Cargar la página principal cuando el DOM esté listo
+// Al cargar el DOM
 document.addEventListener('DOMContentLoaded', function() {
-  console.log('DOM cargado, intentando cargar home...');
-  loadContent('home');
+  console.log('DOM cargado, revisando última página visitada...');
+  
+  // Recuperar la última página visitada de localStorage o cargar "home" por defecto
+  const lastPage = sessionStorage.getItem("currentPage") || "home";
+  loadContent(lastPage);
 });
