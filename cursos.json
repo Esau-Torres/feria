@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Álgebra Básica",
+    "description": "Domina los fundamentos del álgebra con explicaciones claras y detalladas. Aprende operaciones básicas, ecuaciones y problemas prácticos con ejercicios interactivos. Este curso cubre todo, desde variables hasta sistemas de ecuaciones.",
+    "info": "Dato del curso: La palabra 'álgebra' proviene del árabe 'al-jabr', que significa 'reunión de partes rotas'. Apareció por primera vez en el título de un libro del matemático persa Al-Juarismi en el siglo IX."
+  },
+  {
+    "id": "2",
+    "name": "Geometría Avanzada",
+    "description": "Explora propiedades y teoremas de figuras complejas. Incluye ejercicios paso a paso y retos que preparan para matemáticas avanzadas. Ideal para estudiantes que buscan profundizar en demostraciones y lógica espacial.",
+    "info": "Dato del curso: La geometría euclidiana, que estudiamos en la escuela, se basa en 5 postulados establecidos por Euclides alrededor del 300 a.C. Durante 2000 años, los matemáticos intentaron probar el quinto postulado, lo que finalmente llevó al descubrimiento de las geometrías no euclidianas."
+  },
+  {
+    "id": "3",
+    "name": "Programación en Python",
+    "description": "Aprende Python desde cero hasta proyectos prácticos. Incluye variables, funciones, librerías y ejercicios aplicados para aprender programando. Construirás aplicaciones reales mientras aprendes.",
+    "info": "Dato del curso: Python no se llama así por la serpiente. Su creador, Guido van Rossum, era un gran fanático del grupo de comedia británico 'Monty Python's Flying Circus' y eligió el nombre en su honor."
+  },
+  {
+    "id": "4",
+    "name": "Historia Universal",
+    "description": "Conoce civilizaciones y eventos que marcaron la historia mundial. Recorrido completo con mapas, cronologías y análisis de impacto histórico. Desde las primeras civilizaciones hasta el mundo moderno.",
+    "info": "Dato del curso: La invención de la imprenta por Johannes Gutenberg alrededor de 1440 no solo hizo los libros más baratos, sino que se considera el evento clave que impulsó el Renacimiento, la Reforma Protestante y la Revolución Científica, cambiando el curso de la historia."
+  },
+  {
+    "id": "5",
+    "name": "Química Orgánica",
+    "description": "Aprende estructuras y reacciones esenciales de química orgánica. Incluye ejercicios prácticos, experimentos virtuales y problemas resueltos. Fundamental para carreras de ciencias y salud.",
+    "info": "Dato del curso: El colorante malva (o púrpura) fue el primer colorante sintético orgánico, descubierto accidentalmente en 1856 por William Perkin, de 18 años, mientras intentaba sintetizar quinina para tratar la malaria. Su descubrimiento lanzó la industria de los tintes sintéticos."
+  },
+  {
+    "id": "6",
+    "name": "Inglés Básico",
+    "description": "Desarrolla habilidades de comunicación en inglés. Incluye vocabulario, gramática y ejercicios prácticos para mejorar la fluidez en situaciones cotidianas. Pierde el miedo a hablar.",
+    "info": "Dato del curso: El inglés tiene el vocabulario más grande del mundo, con más de 1 millón de palabras estimadas. Sin embargo, la mayoría de las conversaciones diarias utilizan solo unas 3,000 palabras."
+  },
+  {
+    "id": "7",
+    "name": "Derecho Penal",
+    "description": "Estudia leyes y fundamentos del derecho penal. Incluye delitos, procedimientos, sanciones y casos prácticos para estudiantes de derecho. Analiza casos reales y su impacto legal.",
+    "info": "Dato del curso: Un principio fundamental del derecho penal moderno es 'Nullum crimen, nulla poena sine praevia lege', que en latín significa 'No hay crimen ni pena sin una ley previa'. Esto prohíbe castigar a alguien por un acto que no era ilegal cuando se cometió."
+  },
+  {
+    "id": "8",
+    "name": "Informática",
+    "description": "Comprende fundamentos de informática. Aprende sobre hardware, software, redes y algoritmos. Ideal para principiantes y estudiantes de tecnología que buscan una base sólida.",
+    "info": "Dato del curso: El primer 'bug' informático fue literal. En 1947, los operadores de la computadora Mark II en Harvard encontraron una polilla (bug) atascada en un relé que causaba fallos. Pegaron la polilla en su bitácora, acuñando el término 'debugging' (depuración)."
+  }
+]

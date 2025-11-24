@@ -1,0 +1,47 @@
+[
+  {
+    "id": "T01",
+    "name": "Guía Rápida: Conectar Impresora WiFi",
+    "description": "Pasos sencillos para configurar tu impresora a una red inalámbrica doméstica. Soluciona los problemas de conexión más comunes.",
+    "category": "Tecnología",
+    "color": "bg-blue-100 text-blue-700",
+    "icon": "fas fa-wifi",
+    "pdfLink": "docs/guia_impresora.pdf"
+  },
+  {
+    "id": "T02",
+    "name": "50 Frases Esenciales de Viaje en Inglés",
+    "description": "Vocabulario práctico para moverte, ordenar comida y comunicarte en el extranjero sin problemas.",
+    "category": "Idiomas",
+    "color": "bg-pink-100 text-pink-700",
+    "icon": "fas fa-plane",
+    "pdfLink": "docs/frases_viaje.pdf"
+  },
+  {
+    "id": "T03",
+    "name": "Despejando Variables: La Técnica",
+    "description": "Un documento sobre las reglas básicas y trucos para resolver ecuaciones lineales y cuadráticas de forma rápida.",
+    "category": "Matemáticas",
+    "color": "bg-rose-100 text-rose-700",
+    "icon": "fas fa-calculator",
+    "pdfLink": "docs/algebra_tips.pdf"
+  },
+  {
+    "id": "T04",
+    "name": "Conceptos Básicos de HTML y CSS",
+    "description": "Aprende a estructurar una página web (HTML) y a darle estilos (CSS) con esta documentación fundamental para iniciar en el desarrollo web.",
+    "category": "Programación",
+    "color": "bg-green-100 text-green-700",
+    "icon": "fas fa-code",
+    "pdfLink": "docs/html_css_basics.pdf"
+  },
+  {
+    "id": "T05",
+    "name": "Cómo hacer un buen Prompt para IA",
+    "description": "Domina el arte de crear instrucciones claras y efectivas para modelos de IA como ChatGPT y Gemini. ¡Maximiza tus resultados!",
+    "category": "Inteligencia Artificial",
+    "color": "bg-purple-100 text-purple-700",
+    "icon": "fas fa-robot",
+    "pdfLink": "docs/guia_prompts_ia.pdf"
+  }
+]

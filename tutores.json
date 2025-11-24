@@ -1,0 +1,86 @@
+[
+  {
+    "id": "TUT01",
+    "name": "Ing. Carlos Olmedo Jaco",
+    "subject": "Programación Avanzada y Python",
+    "rate": 10,
+    "experience": "8 años",
+    "focus": "Desarrollo de IA, Backend (Simulación), Algoritmos complejos.",
+    "imageUrl": "image/carlos_olmedo_jaco.png",
+    "schedule": {
+        "days": ["Lunes (10:00-12:00)", "Miércoles (14:00-16:00)", "Viernes (18:00-20:00)"],
+        "isAvailable": true,
+        "contactLink": "mailto:carlos.olmedo@tutorex.com"
+    }
+  },
+  {
+    "id": "TUT02",
+    "name": "Dra. Elvira Flores",
+    "subject": "Cálculo y Geometría",
+    "rate": 8,
+    "experience": "12 años",
+    "focus": "Cálculo Integral, Geometría Analítica.",
+    "imageUrl": "image/tutor_female_default.png",
+    "schedule": {
+        "days": ["Martes (15:00-17:00)", "Jueves (10:00-12:00)", "Sábado (09:00-11:00)"],
+        "isAvailable": true,
+        "contactLink": "mailto:elvira.flores@tutorex.com"
+    }
+  },
+  {
+    "id": "TUT03",
+    "name": "Prof. Ana Torres",
+    "subject": "Inglés Conversacional",
+    "rate": 6,
+    "experience": "5 años",
+    "focus": "Fluidez, preparación TOEFL/IELTS.",
+    "imageUrl": "image/tutor_female_default.png",
+    "schedule": {
+        "days": ["Lunes (17:00-19:00)", "Miércoles (17:00-19:00)", "Viernes (17:00-19:00)"],
+        "isAvailable": true,
+        "contactLink": "mailto:ana.torres@tutorex.com"
+    }
+  },
+  {
+    "id": "TUT04",
+    "name": "Lic. Miguel Ángel Pérez",
+    "subject": "Derecho Penal y Civil",
+    "rate": 9,
+    "experience": "9 años",
+    "focus": "Leyes penales, litigios y jurisprudencia.",
+    "imageUrl": "image/tutor_male_default.png",
+    "schedule": {
+        "days": ["Martes (09:00-11:00)", "Jueves (14:00-16:00)"],
+        "isAvailable": true,
+        "contactLink": "mailto:miguel.angel.perez@tutorex.com"
+    }
+  },
+  {
+    "id": "TUT05",
+    "name": "Ms. Valeria Castro",
+    "subject": "Química Orgánica y Biología",
+    "rate": 7,
+    "experience": "6 años",
+    "focus": "Reacciones químicas, bioquímica avanzada.",
+    "imageUrl": "image/tutor_female_default.png",
+    "schedule": {
+        "days": ["Lunes (14:00-16:00)", "Miércoles (10:00-12:00)", "Viernes (16:00-18:00)"],
+        "isAvailable": true,
+        "contactLink": "mailto:valeria.castro@tutorex.com"
+    }
+  },
+  {
+    "id": "TUT06",
+    "name": "Hist. Lucía Fernández",
+    "subject": "Historia y Geografía",
+    "rate": 5,
+    "experience": "4 años",
+    "focus": "Historia Universal, análisis político.",
+    "imageUrl": "image/tutor_female_default.png",
+    "schedule": {
+        "days": ["Lunes (19:00-21:00)", "Miércoles (19:00-21:00)", "Sábado (14:00-16:00)"],
+        "isAvailable": true,
+        "contactLink": "mailto:lucia.fernandez@tutorex.com"
+    }
+  }
+]
